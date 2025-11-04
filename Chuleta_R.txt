@@ -72,7 +72,7 @@ vect["bar"] me sacaria el contenido de bar
 > conj_datos<-data.frame(Nombres=nombres, Edades=edades, Ciudad_origen=ciudad_origen)
 > summary(conj_datos)
 
-
+https://anderfernandez.com/blog/regresion-lineal-r/
 
 #GUARDAR EL DATAFRAME: save(conj_datos, file="ConjDatos.RData")
 > Ojo, si luego lo quiero cargar y mostrar seria: load("ConjDatos.RData") y View(conj_datos)
